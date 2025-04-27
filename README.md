@@ -9,8 +9,7 @@
             "appium:platformVersion": "16",
             "appium:deviceName": "Pixel 3",
             "appium:automationName": "UiAutomator2",
-            "appium:app": "/D/automationTesting/mobileLearining/project/wdio-appium/app/android/ApiDemos-debug.apk"
-
+            "appium:app": "./app/android/ApiDemos-debug.apk"
         }
 
 3. Connect with the current port from `wdio.conf.js` file
